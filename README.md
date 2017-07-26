@@ -6,5 +6,5 @@
 - Plays sound effect when user switch through each character
 - Animation for each character through selection
 
-[Video of interaction with sound](https://youtu.be/a9covCck2vc)
-[Framer prototype](https://framer.cloud/XdZrl/)
+- [Video of interaction with sound](https://youtu.be/a9covCck2vc)
+- [Framer prototype](https://framer.cloud/XdZrl/)
