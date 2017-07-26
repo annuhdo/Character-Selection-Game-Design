@@ -7,3 +7,4 @@
 - Animation for each character through selection
 
 Video of interaction with sound: https://youtu.be/a9covCck2vc
+Play with the prototype: https://framer.cloud/XdZrl/
