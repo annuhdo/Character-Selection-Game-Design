@@ -7,6 +7,10 @@ flow.showNext(screenA)
 # Quick fix from importing design to code
 quirk_badge.y = 302
 navigation.y = 506
+quirk_badge_1.y = 302
+quirk_badge_2.y = 302
+quirk_badge_3.y = 302
+quirk_badge_4.y = 302
 
 # Names and Quirks
 name_badge_1.parent = screenA
